@@ -47,6 +47,7 @@ Relevant Coursework: AP Physics, AP Computer Science A, AP Statistics, AP Spanis
 
 **Webmaster, KPAC Tutoring Program**  
 2022-Present  
+
 **Columbia University Science Honors Program**  
 2023 \- Present
 
