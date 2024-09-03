@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<!-- # [Go back to main page][main] -->
+__[Go back to main page][main]__
 
 **Eugene Hwang**  
 2387 Linwood Ave FL 1, Fort Lee, NJ  
